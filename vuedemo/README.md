@@ -1,4 +1,9 @@
 # vuedemo
+教程：http://blog.csdn.net/FungLeo/article/details/53199436
+
+
+
+
 
 > A Vue.js project
 
